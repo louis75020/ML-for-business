@@ -1,0 +1,23 @@
+column~type
+Country~object
+Year~int64
+Status~object
+Life expectancy ~float64
+Adult Mortality~float64
+infant deaths~int64
+Alcohol~float64
+percentage expenditure~float64
+Hepatitis B~float64
+Measles ~int64
+ BMI ~float64
+under-five deaths ~int64
+Polio~float64
+Total expenditure~float64
+Diphtheria ~float64
+ HIV/AIDS~float64
+GDP~float64
+Population~float64
+ thinness  1-19 years~float64
+ thinness 5-9 years~float64
+Income composition of resources~float64
+Schooling~float64
